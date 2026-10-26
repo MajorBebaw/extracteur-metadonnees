@@ -1,0 +1,25 @@
+Fichiers d'échantillon
+======================
+
+Tous ces fichiers sont fictifs : ils ont été fabriqués de toutes pièces pour
+tester l'outil. L'entreprise Exemplium SAS et les personnes citées (Jean Dupont,
+Marie Lefèvre, Thomas Bernard, Camille Martin) sont imaginaires. Les lieux et
+les dates ont été choisis pour couvrir les cas à traiter.
+
+photos/
+  IMG_0412.jpg              photo d'appareil hybride, retouchée, géolocalisée
+  DSC01138.JPG              extension en majuscules, longitude à l'ouest
+  IMG_2087.jpeg             photo de smartphone, latitude au sud
+  photo_reseau_social.jpg   image republiée : aucune métadonnée
+
+documents/
+  rapport_activite_2024.pdf     PDF avec auteur et logiciels
+  note_interne_migration.docx   document Word avec auteur et dernier modificateur
+  document_corrompu.pdf         page d'erreur HTML enregistrée sous l'extension .pdf
+
+Ce fichier texte permet aussi de vérifier que l'outil ignore les formats qu'il
+ne prend pas en charge.
+
+Remarque : ces métadonnées ont été écrites avec quelques lignes de Python.
+C'est la preuve qu'une métadonnée se falsifie facilement : en enquête, elle
+oriente les recherches, elle ne prouve rien à elle seule.

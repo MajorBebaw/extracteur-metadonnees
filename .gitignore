@@ -1,0 +1,18 @@
+# Environnement virtuel et caches de Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Résultats d'analyse : ils peuvent contenir des données personnelles
+*.json
+*.csv
+*_carte.html
+archives*/
+
+# Fichiers de travail personnels
+essai*.py
+.vscode/
+~$*
+Thumbs.db
+desktop.ini

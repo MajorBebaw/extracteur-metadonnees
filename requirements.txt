@@ -1,0 +1,6 @@
+# Bibliothèques du projet. Installation : pip install -r requirements.txt
+exifread>=3.0       # lecture de l'EXIF des photos
+pypdf>=4.0          # lecture des PDF
+python-docx>=1.1    # lecture des documents Word
+folium>=0.17        # carte interactive
+requests>=2.31      # appels à l'API de la Wayback Machine
